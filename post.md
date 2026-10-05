@@ -8,4 +8,4 @@ I did run into one Docker networking issue where OLake could not resolve the Ice
 
 I wrote up the setup and the issue I ran into in the README.
 
-Repo: [GitHub link]
+Repo: https://github.com/JayP0809/olake-postgres-iceberg-demo
